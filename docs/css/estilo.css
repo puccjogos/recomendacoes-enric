@@ -66,9 +66,15 @@ span.nome-disciplina {
 }
 
 /* DISCIPLINAS */
+
+
 a#mitologia-2017-1s.atual {
   background-color:#ff6969;
   color:black !important;
+}
+
+a#mitologia-2017-1s:hover {
+  color:#ff6969;
 }
 
 span.mitologia-2017-1s {
@@ -89,6 +95,10 @@ a#proj2-2017-1s.atual {
   color:black !important;
 }
 
+a#proj2-2017-1s:hover {
+  color:#68b9ff;
+}
+
 span.proj2-2017-1s {
   background-color:#68b9ff;
 }
@@ -100,6 +110,10 @@ span.proj2-2017-1s {
 img.proj2-2017-1s {
   border: 5px solid #68b9ff;
   border-radius: 2px;
+}
+
+a#proj4-2017-1s:hover {
+  color:#ffba65;
 }
 
 a#proj4-2017-1s.atual {
@@ -118,6 +132,10 @@ span.proj4-2017-1s {
 img.proj4-2017-1s {
   border: 5px solid #ffba65;
   border-radius: 2px;
+}
+
+a#balanceamento-2017-1s:hover {
+  color:#a3d77c;
 }
 
 a#balanceamento-2017-1s.atual {
