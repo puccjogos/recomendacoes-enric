@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,900i|Raleway:900');
+
+body {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+  font-size: 18px;
+  line-height: 1.25em;
+}
+
+h1, h2 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 900;
+  color: black;
+}
+
+h1 {
+  font-size: 42px;
+  margin: 2em 0 1.5em 0;
+  line-height: 1.25em;
+}
+
+.intro a {
+  font-weight: 900;
+  text-decoration: none;
+  color: black;
+}
+
+div.recs-jogo {
+  margin: 3em 0.5em 2em 0.5em;
+}
+
+div.recs-jogo h2 {
+  font-size: 30px;
+  margin: 1.25em 0 1em 0;
+}
+
+div.recs-jogo h2 a {
+  text-decoration: none;
+}
+
+p {
+  margin: 1.25em 0;
+}
+
+p.intro {
+  font-weight: 400;
+  font-style: italic;
+}
+
+em {
+  font-style: italic;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  max-height: 450px;
+  margin: 0 auto;
+}
+
+span.nome-disciplina {
+  padding: 2px;
+  border-radius: 2px;
+}
+
+/* DISCIPLINAS */
+span.mitologia-2017-1s {
+  background-color:#ff6969;
+}
+
+.mitologia-2017-1s h2 a {
+  color:#ff6969;
+}
+
+img.mitologia-2017-1s {
+  border: 5px solid #ff6969;
+  border-radius: 2px;
+}

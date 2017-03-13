@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Recomendações de jogos - Enric Llagostera</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilo.css">
+  </head>
+  <body>
+    <h1>Recomendações de jogos</h1>
+    <p class="intro">Em cada começo de aula, eu trago algum jogo para apresentar para os estudantes. Aqui está uma página juntando essas referências, para facilitar o acesso e permitir uma visão geral. No topo estão as recomendações mais recentes. Para mais informações, me mande um <a href="mailto:enricllagostera@gmail.com">email</a>.</p>
+    <p class="intro">- <a href="http://enric.llagostera;com.br">Enric Llagostera</a></p>
+    <div class="recs">
+    {{#info}}
+      <div class="recs-jogo {{disciplina}}">
+        <h2><a href="{{jogo.url}}">{{jogo.nome}}</a></h2>
+        <p class="infos">{{data}}, em <span class="nome-disciplina {{disciplina}}">{{disciplina}}</span>.</p>
+        <img src="{{jogo.img-url}}" class="{{disciplina}}" alt="">
+        {{{md_descricao}}}
+      </div>
+    {{/info}}
+    </div>
+  </body>
+</html>
