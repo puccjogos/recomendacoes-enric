@@ -66,6 +66,11 @@ span.nome-disciplina {
 }
 
 /* DISCIPLINAS */
+a#mitologia-2017-1s.atual {
+  background-color:#ff6969;
+  color:black !important;
+}
+
 span.mitologia-2017-1s {
   background-color:#ff6969;
 }
@@ -77,6 +82,11 @@ span.mitologia-2017-1s {
 img.mitologia-2017-1s {
   border: 5px solid #ff6969;
   border-radius: 2px;
+}
+
+a#proj2-2017-1s.atual {
+  background-color:#68b9ff;
+  color:black !important;
 }
 
 span.proj2-2017-1s {
@@ -92,6 +102,11 @@ img.proj2-2017-1s {
   border-radius: 2px;
 }
 
+a#proj4-2017-1s.atual {
+  background-color:#ffba65;
+  color:black !important;
+}
+
 span.proj4-2017-1s {
   background-color:#ffba65;
 }
@@ -103,6 +118,11 @@ span.proj4-2017-1s {
 img.proj4-2017-1s {
   border: 5px solid #ffba65;
   border-radius: 2px;
+}
+
+a#balanceamento-2017-1s.atual {
+  background-color:#a3d77c;
+  color:black !important;
 }
 
 span.balanceamento-2017-1s {
@@ -117,3 +137,57 @@ img.balanceamento-2017-1s {
   border: 5px solid #a3d77c;
   border-radius: 2px;
 }
+
+/* FILTROS */
+
+h3.filtro {
+  font-weight: 400;
+  font-style: italic;
+  margin: 2.5em 0 1em 0;
+}
+
+ul.filtro {
+  margin: 3em 0;
+}
+
+ul.filtro li {
+  padding: 2px;
+  border-radius: 2px;
+  font-weight: 900;
+  line-height: 1.5em;
+}
+
+ul.filtro li a {
+  padding: 2px;
+  border-radius: 2px;
+  text-decoration: none;
+}
+
+ul.filtro li a:visited {
+  padding: 2px;
+  border-radius: 2px;
+  text-decoration: none;
+  color:black;
+}
+
+ul.filtro li a:hover:before {
+  content: "> ";
+}
+
+/* filtro atual */
+ul.filtro li a.atual {
+  background-color: black;
+  padding: 2px;
+  border-radius: 2px;
+  color:white;
+}
+
+ul.filtro li a.atual:before {
+  content:">> "
+}
+
+/*
+ul.filtro li a.atual:after {
+  content:" <"
+}
+*/
