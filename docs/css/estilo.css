@@ -161,6 +161,7 @@ ul.filtro li a {
   padding: 2px;
   border-radius: 2px;
   text-decoration: none;
+  color:black;
 }
 
 ul.filtro li a:visited {
