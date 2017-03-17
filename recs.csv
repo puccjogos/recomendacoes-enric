@@ -1,4 +1,6 @@
 data,disciplina,jogo.nome,jogo.url,jogo.img-url,md_descricao
+17/03/2017,mitologia-2017-1s,Let's Play Ancient Greek Punishment,http://www.pippinbarr.com/games/letsplayancientgreekpunishment/LetsPlayAncientGreekPunishment.html,imgs/ancientgreek.jpg,"Jogue cada uma das punições gregas. Ótimo jogo para discutir representação e significado em jogos, explorando temas da mitologia grega e sua relação com como jogamos videogames."
+17/03/2017,proj2-2017-1s,EGGNOGG+,https://madgarden.itch.io/eggnogg,imgs/eggnogg.png,"Jogo multiplayer local de duelo de espadas. É um jogo de fãs de [NIDHOGG](http://nidhogggame.com/), extremamente bem feito e bem-humorado."
 16/03/2017,balanceamento-2017-1s,Three Body Problem,http://roburky.co.uk/play/threebodyproblem/,imgs/three-body-problem.png,"Jogo simples e bastante difícil, totalmente voltado para o game feel do movimento do personagem. Ao mesmo tempo, suas regras básicas são claras e criam decisões interessantes."
 16/03/2017,proj4-2017-1s,Hidden Folks,http://hiddenfolks.com/,imgs/hiddenfolks.png,"*Onde está Wally?* digital, com estilo visual cativante, um gancho forte e objetivos globais que conectam os jogadores, além de convidá-los a explorar essas paisagens vivas."
 10/03/2017,proj2-2017-1s,In The Crowd,https://rosden.itch.io/in-the-crowd,imgs/inthecrowd.png,"Jogo multiplayer local para até 6 jogadores, em que o objetivo é atacar os outros jogadores enquanto se esconde numa multidão de NPCs. A premissa é simples e o jogo permite uma série de estratégias e reviravoltas."
@@ -13,3 +15,5 @@ data,disciplina,jogo.nome,jogo.url,jogo.img-url,md_descricao
 24/02/2017,mitologia-2017-1s,The Serpent Cycle,https://gaohmee.itch.io/the-serpent-cycle,imgs/serpent.png,"Um poema interativo baseado na mitologia nórdica, com arte inspirada em gravuras e um ritmo mais calmo e intrigante."
 23/02/2017,proj4-2017-1s,FAR: Lone Sails,http://far-game.com/,imgs/far.png,"Finalista da categoria estudante do IGF 2017. É lindo e tem uma proposta interessante, mas quais seriam as limitações de escopo desse jogo?"
 23/02/2017,balanceamento-2017-1s,Royals,https://ashervo.itch.io/royals,imgs/royals.png,Jogo minimalista sobre um plebeu querendo tornar-se nobreza. Tem um foco em simulação e em sua abordagem resolve mostrar todos os números do jogo para que o jogador crie sua estratégia e escolha suas ações.
+16/03/2017,balanceamento-2017-1s,Three Body Problem,,,"Um jogo totalmente baseado em movimento e suas implicações. Tem um equilíbrio sutil e mecânica repetitiva, no estilo *Super Hexagon*]"
+16/03/2017,proj4-2017-1s,,,,
